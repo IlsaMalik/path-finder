@@ -1,4 +1,4 @@
-This Python project, Path Finder, developed using PyCharm, is an implementation of various algorithms to find paths in graphs. It utilizes fundamental Data Structures and Algorithms (DSA) concepts to efficiently find paths between nodes in a graph.
+This Python project, Path Finder, developed using Pygame, is an implementation of various algorithms to find paths in graphs. It utilizes fundamental Data Structures and Algorithms (DSA) concepts to efficiently find paths between nodes in a graph.
 
 Features
 Graph Representation: Supports both directed and undirected graphs.
